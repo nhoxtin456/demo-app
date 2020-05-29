@@ -1,1 +1,6 @@
 abc
+add: Đăng ký thay đổi trong index
+commit: Lưu lại trạng thái của index
+a1
+haha thanh cong
+i2
