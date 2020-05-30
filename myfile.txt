@@ -1,4 +1,6 @@
 abc
+them file tu abc da them file
+abc
 add: Đăng ký thay đổi trong index
 commit: Lưu lại trạng thái của index
 a1
